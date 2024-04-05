@@ -27,6 +27,8 @@
 [Doom](doom)
 * [Zandronum](doom/zandronum)
 
+[Escape from Tarkov](eft)
+
 [ET Legacy](enemy_territory/etlegacy)
 
 [Factorio](factorio)
@@ -61,6 +63,8 @@
 
 [League Sandbox](leaguesandbox)
 
+[Neverwinter Nights: Enhanced Edition](neverwinter_nights_ee)
+
 [Mindustry](mindustry)
 
 [Minecraft](minecraft)
@@ -84,6 +88,7 @@
   * [Magma](minecraft/java/magma)
   * [Mohist](minecraft/java/mohist)
   * [NanoLimbo](minecraft/java/nanolimbo)
+  * [NeoForge](minecraft/java/neoforge)
   * [Paper](minecraft/java/paper)
   * [Folia](minecraft/java/folia)
   * [Purpur](minecraft/java/purpur)
@@ -126,6 +131,7 @@
 [Rimworld](rimworld)
 
 * [Open World](rimworld/open_world)
+* [Rimworld Together](rimworld/together)
 
 [Starmade](starmade)
 
@@ -155,6 +161,7 @@
 * [CryoFall](steamcmd_servers/cryofall)
 * [DayZ (Experimental)](steamcmd_servers/dayz-experimental)
 * [Dead Matter](steamcmd_servers/dead_matter)
+* [DDNet](steamcmd_servers/ddnet)
 * [Don't Starve Together](steamcmd_servers/dont_starve)
 * [ECO](steamcmd_servers/eco)
 * [Empyrion - Galactic Survival](steamcmd_servers/empyrion)
@@ -182,7 +189,9 @@
 * [Necesse](steamcmd_servers/necesse)
 * [Neos VR](steamcmd_servers/neosvr)
 * [No More Room in Hell](steamcmd_servers/nmrih)
+* [No Love Lost](steamcmd_servers/no_love_lost)
 * [No One Survived](steamcmd_servers/no_one_survived)
+* [Nova-Life: Amboise](steamcmd_servers/novalife_amboise)
 * [Onset](steamcmd_servers/onset)
 * [Open Fortress](steamcmd_servers/open_fortress)
 * [Operation Harsh Doorstop](steamcmd_servers/operation_harsh_doorstop)

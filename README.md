@@ -129,6 +129,8 @@ If you are reading this it looks like you are looking to add an egg to your serv
 [Doom](game_eggs/doom)
 * [Zandronum](game_eggs/doom/zandronum)
 
+[Escape from Tarkov](game_eggs/eft)
+
 [ET Legacy](game_eggs/enemy_territory/etlegacy)
 
 [FTL: Tachyon](game_eggs/ftl/tachyon)
@@ -163,6 +165,8 @@ If you are reading this it looks like you are looking to add an egg to your serv
 
 [Los Angeles Crimes](game_eggs/losangelescrimes)
 
+[Neverwinter Nights: Enhanced Edition](game_eggs/neverwinter_nights_ee)
+
 [Mindustry](game_eggs/mindustry)
 
 [Minetest](game_eggs/minetest) (including MTG)
@@ -190,6 +194,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
   * [Modrinth](game_eggs/minecraft/java/modrinth)
   * [Mohist](game_eggs/minecraft/java/mohist)
   * [NanoLimbo](game_eggs/minecraft/java/nanolimbo)
+  * [NeoForge](game_eggs/minecraft/java/neoforge)
   * [Paper](game_eggs/minecraft/java/paper)
   * [Folia](game_eggs/minecraft/java/folia)
   * [Purpur](game_eggs/minecraft/java/purpur)
@@ -232,6 +237,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 [Rimworld](game_eggs/rimworld)
 
 * [Open World](game_eggs/rimworld/open_world)
+* [Rimworld Together](game_eggs/rimworld/together)
 
 [SteamCMD Servers](game_eggs/steamcmd_servers) These eggs use SteamCMD to install
 
@@ -258,6 +264,7 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Craftopia](game_eggs/steamcmd_servers/craftopia)
 * [Cryofall](game_eggs/steamcmd_servers/cryofall)
 * [DayZ (Experimental)](game_eggs/steamcmd_servers/dayz-experimental)
+* [DDNet](game_eggs/steamcmd_servers/ddnet)
 * [Dead Matter](game_eggs/steamcmd_servers/dead_matter)
 * [Don't Starve Together](game_eggs/steamcmd_servers/dont_starve)
 * [ECO](game_eggs/steamcmd_servers/eco)
@@ -286,7 +293,9 @@ If you are reading this it looks like you are looking to add an egg to your serv
 * [Necesse](game_eggs/steamcmd_servers/necesse)
 * [Neos VR](game_eggs/steamcmd_servers/neosvr)
 * [No More Room in Hell](game_eggs/steamcmd_servers/nmrih)
+* [No Love Lost](game_eggs/steamcmd_servers/no_love_lost)
 * [No One Survived](game_eggs/steamcmd_servers/no_one_survived)
+* [Nova-Life: Amboise](game_eggs/steamcmd_servers/novalife_amboise)
 * [Onset](game_eggs/steamcmd_servers/onset)
 * [Open Fortress](game_eggs/steamcmd_servers/open_fortress)
 * [Operation Harsh Doorstop](game_eggs/steamcmd_servers/operation_harsh_doorstop)
